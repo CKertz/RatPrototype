@@ -12,7 +12,7 @@ public class RatSpawner : MonoBehaviour
     {
         //for (int j = 0; j < ratUnitInitialCount; j++)
         //{
-        //    Instantiate(ratUnitPrefab);
+            Instantiate(ratUnitPrefab);
         //}
 
     }
